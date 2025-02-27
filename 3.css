@@ -149,8 +149,8 @@ header {
 }
 .product img {
     width: 50%; /* Make the image fill the container width */
-    height: 150px; /* Set a fixed height for consistency */
-    object-fit: cover; /* Ensures the image covers the container without distortion */
+    height: 50%; /* Set a fixed height for consistency */
+ /* Ensures the image covers the container without distortion */
     border-radius: 10px; /* Optional: Add rounded corners */
     transition: transform 0.3s ease; /* Optional: Add hover effect */
 }
