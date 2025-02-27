@@ -148,7 +148,7 @@ header {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 .product img {
-    width: 60%; /* Make the image fill the container width */
+    width: 50%; /* Make the image fill the container width */
     height: 150px; /* Set a fixed height for consistency */
     object-fit: cover; /* Ensures the image covers the container without distortion */
     border-radius: 10px; /* Optional: Add rounded corners */
